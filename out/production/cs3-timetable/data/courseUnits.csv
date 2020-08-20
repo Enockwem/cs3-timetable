@@ -1,0 +1,8 @@
+id,code,name,lecturer,isElective
+U1,CSC3217,Emerging trends in Computer Science,Aminah Zawedde,TRUE
+U2,CSC3205,Compiler Design,Mariette Entaralweire,FALSE
+U3,CSC3207,Computer Security,Joyce Nakatumba Nabende,TRUE
+U4,CSC3211,Computer Science Project II,Rose Nakibuule,FALSE
+U5,BSE2205,Data Communications,Tony E. Bubega,FALSE
+U6,BSE3202,Distributed Systems,John Kizito,FALSE
+U7,BSE3205,Data Warehousing and Business Intelligence,Lilian Komugisha,TRUE
